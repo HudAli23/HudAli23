@@ -80,7 +80,7 @@ A reproducible ML pipeline that generates evaluation artifacts (reports + plots)
 - Python, pandas, scikit-learn, matplotlib/seaborn
 
 **Repo**
-- `https://github.com/<your-username>/<repo>`
+- `https://github.com/HudAli23/University-Ranking-Classification`
 
 ---
 
